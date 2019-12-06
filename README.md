@@ -27,6 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ] What is the purpose of a custom hook?
 - [ ] Why is it important to test our apps?
 
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
